@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/express-hello-world/static/css/main.49e71416.css",
+    "main.js": "/express-hello-world/static/js/main.b7e76249.js",
+    "static/js/787.72907352.chunk.js": "/express-hello-world/static/js/787.72907352.chunk.js",
+    "index.html": "/express-hello-world/index.html",
+    "main.49e71416.css.map": "/express-hello-world/static/css/main.49e71416.css.map",
+    "main.b7e76249.js.map": "/express-hello-world/static/js/main.b7e76249.js.map",
+    "787.72907352.chunk.js.map": "/express-hello-world/static/js/787.72907352.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e71416.css",
+    "static/js/main.b7e76249.js"
+  ]
+}
